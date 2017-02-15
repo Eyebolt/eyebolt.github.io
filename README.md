@@ -6,7 +6,13 @@ Eyebolt Main Site
 Install Jekyll & Dependencies:
 ```
 gem install jekyll
+gem install jekyll-paginate
+gem install jekyll-gist
+gem install redcarpet
+gem install pygments.rb
 ```
- gem install jekyll-paginate
-  524  jekyll serve
-  525  gem install jekyll-gist
+
+Serve locally:
+```
+jekyll serve
+```

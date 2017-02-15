@@ -7,10 +7,10 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Eyebolt
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'Custom Software Solutions'
+url:              http://www.eyebolt.com
 baseurl:          /
 #baseurl:             ""
 
@@ -22,8 +22,8 @@ sass:
   style:            :compressed
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'John Gardner'
+  url:            http://johngardner.name
 
 paginate:         5
 
@@ -31,7 +31,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Eyebolt/eyebolt.github.io
 
 # Gems
 gems:
