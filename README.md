@@ -11,6 +11,12 @@ gem install jekyll-gist
 gem install redcarpet
 gem install pygments.rb
 ```
+Process JS source:
+```
+npm install -g webpack
+npm install
+```
+
 
 Serve locally:
 ```
