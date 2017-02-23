@@ -16,9 +16,14 @@ Process JS source:
 npm install -g webpack
 npm install
 ```
-
+# Running
 
 Serve locally:
 ```
 jekyll serve
 ```
+
+# Citations
+
+Core JS files borrowed from:
+https://github.com/philipwalton/analyticsjs-boilerplate
