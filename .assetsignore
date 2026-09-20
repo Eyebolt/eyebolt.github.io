@@ -1,0 +1,7 @@
+# Repo machinery — present in the deploy directory but not part of the site.
+.git
+.gitignore
+.assetsignore
+.omc
+README.md
+wrangler.jsonc
